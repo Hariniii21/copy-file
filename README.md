@@ -22,7 +22,6 @@ end the program
 Program to copy the file.
 #Developed by: Harini.S
 #RegisterNumber:23004240
-'''
 print("Enter the name of source file: ")
 sFile=input()
 print("Enter the name of target file: ")
