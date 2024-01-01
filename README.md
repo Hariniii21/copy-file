@@ -35,6 +35,7 @@ for s in texts:
     fileHandle.write(s)
 fileHandle.close()
 print("\nFile Copied Successfully!")
+```
 ### OUTPUT:
 1.![image](https://github.com/Hariniii21/copy-file/assets/147140423/94855fab-99d2-4ff2-a2cc-53afe505192e)
 2.![image](https://github.com/Hariniii21/copy-file/assets/147140423/dd04fe18-4cb7-4013-a181-37c5f4309fb5)
